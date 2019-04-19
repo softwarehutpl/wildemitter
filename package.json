@@ -1,6 +1,6 @@
 {
-  "name": "wildemitter",
-  "version": "1.2.0",
+  "name": "@konradkierus/wildemitter",
+  "version": "1.2.1",
   "author": "Henrik Joreteg <henrik@andyet.net>",
   "scripts": {
     "build": "node ./build.js",
